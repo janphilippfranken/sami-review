@@ -40,5 +40,3 @@ python train.py \
 #### Running without GPUs
 
 If you don't have access to GPUs, you can attempt to run training using `experiments/tldr/conf/model/mistral_tiny_base`, which we tested locally on an Apple M2 Pro (2023 MacBook Pro with 16B memory).
-
-### Additional Resources
